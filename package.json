@@ -1,7 +1,7 @@
 {
-  "name": "webpack-boilerplate",
+  "name": "threejs-demo",
   "version": "0.0.1",
-  "description": "Webpack Boilerplate",
+  "description": "ThreeJS Demo",
   "main": "webpack.common.js",
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
