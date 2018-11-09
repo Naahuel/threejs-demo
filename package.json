@@ -28,6 +28,7 @@
     "webpack-merge": "^4.1.4"
   },
   "dependencies": {
-    "three": "^0.98.0"
+    "three": "^0.98.0",
+    "three-orbit-controls": "^82.1.0"
   }
 }
